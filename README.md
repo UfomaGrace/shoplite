@@ -204,3 +204,4 @@ You'll make two branches that change **the same line** in different ways, then m
 From now on, every merge into `main` updates your live site, and every pull request gets its own preview link. Because `main` is protected, **only code that passed CI ever goes live.** Add your live link to the top of this README.
 
 Good luck! 🚀
+CI branch protection test
