@@ -1,3 +1,6 @@
+# Shoplite
+**Live Demo:** https://shoplite-pi-lovat.vercel.app/
+
 # 🛒 ShopLite: Week 4 · Git, GitHub & GitHub Actions Assignment
 
 This project is provided as a **starter** and a **reference**. It's a working ShopLite app with a cart, a light/dark theme and a user login, all built with Redux Toolkit. **Vitest** is already installed, with one finished test file to copy from.
